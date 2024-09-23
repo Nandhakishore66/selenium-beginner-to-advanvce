@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NAVEEN
+Bundle-SymbolicName: NAVEEN
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: NAVEEN
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
