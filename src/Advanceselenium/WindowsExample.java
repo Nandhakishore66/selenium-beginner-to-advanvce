@@ -23,7 +23,7 @@ public class WindowsExample {
 		WebElement openHome=driver.findElement(By.id("home"));
 		openHome.click();
 		
-		/*now we have to five the control to new window,,
+		/*now we have to move the control to new window,,
 		 * for that we need to give the identity of new window in one place
 		 */
 		/*whatever the windows open with the help of driver(15th line) all the parent and 
